@@ -1,10 +1,10 @@
 ---
-title: "Untitled"
+title: "Pruebecita"
 author: "Julia Losana García"
-date: "2024-01-18"
+date: "2024-04-18"
 output: 
   word_document:
-   fig_width: 7
+   fig_height: 10
    toc: TRUE 
 ---
 
@@ -12,7 +12,7 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Mi TFM
+# Mi Prueba 
 
 ## R Markdown
 
